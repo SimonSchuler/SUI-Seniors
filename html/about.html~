@@ -11,7 +11,7 @@
 <link href="../css/stylesheet.css" media="screen" rel="stylesheet" />
 
 	<title>
-		Simon's erste Schritte
+		Wer sind wir?
 	</title>
 </head>
 <!-- Ende Head -->
@@ -23,7 +23,7 @@
     
     	<!-- Start Header -->
 		<div id="header">
-    		<h2><b>SIMON SCHULER</b></h2>
+    		<h2><b>Wer sind wir?</b></h2>
         </div>
         <!-- Ende Header -->
     
@@ -42,7 +42,7 @@
     
     	<!-- Start Content -->
   <div id="content">
-    	Walkthrough sind in Bearbeitung </div>
+    	Simon Schuler; Geboren 13.09.1982 in 7270 Davos Platz GR </div>
         <!-- Ende Content -->    
     
 		<!-- Start Footer -->
